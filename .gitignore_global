@@ -279,6 +279,7 @@ DerivedData
 ######################
 *.sql
 *.sqlite
+*.log
 ############
 # PERSONAL #
 ############
